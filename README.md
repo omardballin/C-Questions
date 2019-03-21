@@ -1,8 +1,8 @@
 # CsharpQuestions
 ___
-What is a namespace?
-What are value types?
-What are reference types?
+1. What is a namespace?
+2. What are value types?
+3. What are reference types?
 What is an automatic property and how is it useful?
 What is the purpose of using statement?
 What are dynamic type variables?
