@@ -11,9 +11,9 @@ ___
 5. What is the purpose of using statement?
     - Provides a convenient syntax that ensures the correct use of IDisposable objects. such as using system.IO
 6. What are dynamic type variables?
-    -
+    - It is a type that avoids compile time type checking. 
 7. What is the purpose of the is operator?
-    -
+    - kjhskjh
 8. What are generics and how is using them useful?
     -
 9. What is the scope of a public member of a class?
