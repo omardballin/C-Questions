@@ -43,30 +43,30 @@ ___
 21. What is try and catch and when are they used?
     - they are loops. try will go through the loop and read for any exception erros or encapsulate a region of a code and
 22. How is exception handling done?
-    -
+    - Whenever you do a try or while loop you want to have exception handling. If anything fails you can display an eroor message instead of the program just crashing. 
 23. What is finally and what is its purpose?
-    -
+    - When the try/catch blcok executes the finally block will always execute it whether its an exception or if it just executes normally. It's main purpose is to release the system resources
 24. List the differences between Array and ArrayList.
-    -
+    - An array is a set list or collection of data that has a fixed or unchanged length that cannot be changed during runtime. An array list is an array that you can store same or different data types. An array list can also accept null types as well. The size of an array list can increase or decrease at any moment.
 25. What is an object?
-    -
+    - Once more, an object is just an instance of a class. 
 26. Define constructor.
-    -
+    - A constructor usually initialize the data members of the new object. It takes no parameters. 
 27. When can var be used to declare a variable and how is the type for the variable determined?
-    -
+    - var can be used for any variable called and the system will automtically initate what type of variable it is. 
 28. What is an abstract class?
-    -
+    - An abstract class is a special kind of class that is usually created only to be sub-classed
 29. What is an interface?
-    -
+    - When you create an interface you are creating a set of methods. It helps provide a way to make aclass into two classes.
 30. What is a method?
-    -
+    - A method is a code block that contains different kinds of statements. 
 31. What is a property?
-    -
+    - A property or properties helps read and write the value of a private field. 
 32. What is an access specifier?
-    -
+    - Access specifier describes the scope of accessibility of an object and everything in it. 
 33. What access specifiers are supported and what do they mean?
-    -
+    -public: can be accessed from anywhere private: limited only inside the classes or struct in which they are declared       protected:limited within the class or struct and the class derived from this certain class internal: can be accessed within the program that conatins the decleration
 34. What is a collection?
-    -
+    - classes that serve various purposes. 
 35. What is a Hash Table?
-    -
+    - used when you need to access elements from using key. 
